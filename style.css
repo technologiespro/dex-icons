@@ -1,0 +1,225 @@
+@font-face {
+  font-family: 'dex-icons';
+  src:  url('fonts/dex-icons.eot?brcdyc');
+  src:  url('fonts/dex-icons.eot?brcdyc#iefix') format('embedded-opentype'),
+    url('fonts/dex-icons.ttf?brcdyc') format('truetype'),
+    url('fonts/dex-icons.woff?brcdyc') format('woff'),
+    url('fonts/dex-icons.svg?brcdyc#dex-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="dex-"], [class*=" dex-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'dex-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dex-clone:before {
+  content: "\e933";
+}
+.dex-bell:before {
+  content: "\e934";
+}
+.dex-clock:before {
+  content: "\e93e";
+}
+.dex-trash-alt:before {
+  content: "\e93f";
+}
+.dex-user-shield:before {
+  content: "\e940";
+}
+.dex-user-secret:before {
+  content: "\e941";
+}
+.dex-like:before {
+  content: "\e906";
+}
+.dex-privacy:before {
+  content: "\e908";
+}
+.dex-assets:before {
+  content: "\e919";
+}
+.dex-money:before {
+  content: "\e903";
+}
+.dex-deposit-coins:before {
+  content: "\e909";
+}
+.dex-withdraw-coins:before {
+  content: "\e90a";
+}
+.dex-dashboard:before {
+  content: "\e90b";
+}
+.dex-warning:before {
+  content: "\e90c";
+}
+.dex-share:before {
+  content: "\e90d";
+}
+.dex-settle:before {
+  content: "\e90e";
+}
+.dex-info-circle-o:before {
+  content: "\e90f";
+}
+.dex-star:before {
+  content: "\e910";
+}
+.dex-alarm:before {
+  content: "\e911";
+}
+.dex-unlocked:before {
+  content: "\e912";
+}
+.dex-locked:before {
+  content: "\e913";
+}
+.dex-create_account:before {
+  content: "\e914";
+}
+.dex-swap:before {
+  content: "\e915";
+}
+.dex-fire:before {
+  content: "\e916";
+}
+.dex-minus-circle:before {
+  content: "\e917";
+}
+.dex-balance:before {
+  content: "\e918";
+}
+.dex-prediction:before {
+  content: "\e91a";
+}
+.dex-autolock:before {
+  content: "\e91b";
+}
+.dex-borrow:before {
+  content: "\e91c";
+}
+.dex-trade:before {
+  content: "\e91d";
+}
+.dex-logout-1:before {
+  content: "\e91e";
+}
+.dex-plus-circle:before {
+  content: "\e91f";
+}
+.dex-question-circle:before {
+  content: "\e920";
+}
+.dex-cogs:before {
+  content: "\e921";
+}
+.dex-withdraw:before {
+  content: "\e922";
+}
+.dex-deposit1:before {
+  content: "\e923";
+}
+.dex-explorer:before {
+  content: "\e924";
+}
+.dex-heart:before {
+  content: "\e925";
+}
+.dex-zhihu:before {
+  content: "\e926";
+}
+.dex-qq:before {
+  content: "\e927";
+}
+.dex-git:before {
+  content: "\e928";
+}
+.dex-github:before {
+  content: "\e929";
+}
+.dex-google-play:before {
+  content: "\e92a";
+}
+.dex-android:before {
+  content: "\e92b";
+}
+.dex-telegram:before {
+  content: "\e92c";
+}
+.dex-weibo:before {
+  content: "\e92d";
+}
+.dex-accounts:before {
+  content: "\e92e";
+}
+.dex-barter:before {
+  content: "\e92f";
+}
+.dex-htlc:before {
+  content: "\e930";
+}
+.dex-bts-money:before {
+  content: "\e931";
+}
+.dex-sand-clock:before {
+  content: "\e932";
+}
+.dex-wallet-bitshares:before {
+  content: "\e935";
+}
+.dex-vote:before {
+  content: "\e936";
+}
+.dex-mac:before {
+  content: "\e937";
+}
+.dex-windows:before {
+  content: "\e938";
+}
+.dex-linux:before {
+  content: "\e939";
+}
+.dex-shield-unlock:before {
+  content: "\e93a";
+}
+.dex-shield-lock:before {
+  content: "\e93b";
+}
+.dex-bts:before {
+  content: "\e93c";
+}
+.dex-bts-line:before {
+  content: "\e93d";
+}
+.dex-snapcraft:before {
+  content: "\e907";
+}
+.dex-blockchain:before {
+  content: "\e902";
+}
+.dex-wallet2:before {
+  content: "\e905";
+}
+.dex-games:before {
+  content: "\e904";
+}
+.dex-sth:before {
+  content: "\e901";
+}
+.dex-antibounty:before {
+  content: "\e900";
+}
