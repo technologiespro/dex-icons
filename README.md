@@ -1,2 +1,4 @@
-# dex-icons
-DEX Icons Vector Font &amp; CSS
+# DEX Icons Vector Font &amp; CSS
+
+v.1.0
+
